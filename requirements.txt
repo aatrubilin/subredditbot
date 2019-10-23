@@ -1,0 +1,4 @@
+PySocks
+requests
+python-telegram-bot
+sqlalchemy
